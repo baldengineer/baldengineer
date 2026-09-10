@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I build electronics, write code, and explain what the waveforms are actually trying to tell us. My projects usually involve test equipment, power electronics, embedded systems, or a questionable idea that seemed easy at first. When something breaks, I turn the mistake into content so you can make a more interesting one.
+
+- **💬 Ask me about**:  the [Mega IIe](https://github.com/baldengineer/Mega-IIe/) or [Bit Preserve](https://github.com/baldengineer/bit-preserve)
+- **😄 Pronouns**: he/him
+- **📫 How to reach me**: Contact [James via LinkedIn](https://bald.ee/linkedin)
+- **Fun fact:** I still have my first DMM from 1997
 <!--
 **baldengineer/baldengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
