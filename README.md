@@ -4,7 +4,7 @@ I build electronics, write code, and explain what the waveforms are actually try
 
 - **💬 Ask me about**:  the [Mega IIe](https://github.com/baldengineer/Mega-IIe/) or [Bit Preserve](https://github.com/baldengineer/bit-preserve)
 - **😄 Pronouns**: he/him
-- **📫 How to reach me**: Contact [James via LinkedIn](https://bald.ee/linkedin)
+- **📫 How to reach me**: Contact James on [LinkedIn](https://bald.ee/linkedin) or the [AddOhms Discord](https://bald.ee/discord)
 - **Fun fact:** I still have my first DMM from 1997
 <!--
 **baldengineer/baldengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
